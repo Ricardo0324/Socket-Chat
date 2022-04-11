@@ -4,7 +4,7 @@
 
 Socket，又称套接字，在TCP/IP协议分层架构中，属应用层和传输层之间的一个抽象层(也有的说是属于传输层)，它把TCP/IP层复杂的操作抽象为几个简单的接口供应用层调用以实现进程在网络中通信。
 
-![在这里插入图片描述](README.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5a6-5pyJ5Li6,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center.jpeg)
+![在这里插入图片描述](README.assets/01.png)
 
 ## 1.2 优点
 
@@ -25,7 +25,7 @@ Socket，又称套接字，在TCP/IP协议分层架构中，属应用层和传�
 
 # 三 通讯连接过程（源码解析）
 
-![在这里插入图片描述](README.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5a6-5pyJ5Li6,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center-16496915995423.jpeg)
+![在这里插入图片描述](README.assets/02.png)
 
 ## 3.1 服务端
 
